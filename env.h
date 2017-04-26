@@ -1,3 +1,5 @@
+#pragma once
+
 // Hardware controller ID for I2C
 #define HWC_I2C_ID 45
 
